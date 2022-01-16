@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ideahacks2022/static/css/main.e80c5d5b.css",
+    "main.js": "/ideahacks2022/static/js/main.fe81e5b0.js",
+    "static/media/sky.jpeg": "/ideahacks2022/static/media/sky.0880ced0ac625c3296ea.jpeg",
+    "index.html": "/ideahacks2022/index.html",
+    "main.e80c5d5b.css.map": "/ideahacks2022/static/css/main.e80c5d5b.css.map",
+    "main.fe81e5b0.js.map": "/ideahacks2022/static/js/main.fe81e5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80c5d5b.css",
+    "static/js/main.fe81e5b0.js"
+  ]
+}
